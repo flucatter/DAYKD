@@ -5,7 +5,7 @@
 The source code and implementation details for the **Dual Attentive YOLOv11 Keypoint Detector (DAYKD)** model presented in this paper are available to facilitate reproducibility and further research. Below is the relevant information:  
 
 ### **Code Repository**  
-- **Repository URL**: [GitHub Link (to be added upon publication)]()  
+- **Repository URL**: [(https://github.com/flucatter/DAYKD)]()  
 - **License**: MIT License (Open-source, free for academic and non-commercial use).  
 - **Programming Language**: Python (PyTorch framework).  
 
