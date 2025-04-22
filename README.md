@@ -46,5 +46,4 @@ For technical queries, contact the corresponding author:
 ### **Note**  
 The simulated dataset was generated using **gprMax** (v3.1.5), and real-world data will be shared upon request due to privacy agreements.  
 
----  
-This statement ensures compliance with journal guidelines (20000-character limit) while providing essential details for replication. Let me know if you need modifications!
+
