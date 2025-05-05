@@ -46,4 +46,5 @@ For technical queries, contact the corresponding author:
 ### **Note**  
 The simulated dataset was generated using **gprMax** (v3.1.5), and real-world data will be shared upon request due to privacy agreements.  
 
-
+### **Acknowledgments**
+This project uses code from [YOLOv11](https://github.com/ultralytics/ultralytics), which is licensed under [AGPL-3.0 License]. Thanks to the original authors for their work.
