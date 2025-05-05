@@ -48,3 +48,12 @@ The simulated dataset was generated using **gprMax** (v3.1.5), and real-world da
 
 ### **Acknowledgments**
 This project uses code from [YOLOv11](https://github.com/ultralytics/ultralytics), which is licensed under [AGPL-3.0 License]. Thanks to the original authors for their work.
+
+### Usage Instructions
+- The pre-trained YOLOv11 model is located in the `runs/train-pose` folder.  
+- Sample test data for inference is provided in the `image` folder.  
+- Run `pose-predict.py` to perform predictions on the data.  
+
+### Notes:  
+- This model is an improved version of YOLOv11.  
+- Ensure your environment is properly configured to **train and test** the original YOLOv11 model before running this code.  
