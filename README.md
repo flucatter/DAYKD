@@ -26,19 +26,6 @@ The provided code includes:
 - **Training**: NVIDIA GPU (RTX 3050 or higher with 8GB VRAM recommended).  
 - **Inference**: Compatible with CPU (slower) or edge devices (Jetson Xavier).  
 
-### **Usage Instructions**  
-1. Clone the repository and install dependencies via `pip install -r requirements.txt`.  
-2. Prepare datasets (simulated or real-world GPR B-scans) in YOLO annotation format.  
-3. Run training:  
-   ```bash  
-   python train.py --task detection  # Task 1: Target detection  
-   python train.py --task keypoint   # Task 2: Keypoint refinement  
-   ```  
-4. For inference on new GPR scans:  
-   ```bash  
-   python detect.py --source path/to/image --weights daykd.pt  
-   ```  
-
 ### **Support**  
 For technical queries, contact the corresponding author:  
 - **Email**: [houfeifei@csu.edu.cn](mailto:houfeifei@csu.edu.cn)  
