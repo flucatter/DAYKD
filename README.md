@@ -2,7 +2,7 @@
 
 **Software Code Availability Information**  
 
-The source code and implementation details for the **Dual Attentive YOLOv11 Keypoint Detector (DAYKD)** model presented in this paper are available to facilitate reproducibility and further research. Below is the relevant information:  
+The source code and implementation details for the **Dual Attentive YOLOv11 Keypoint Detector (DAYKD)** model presented in **End-to-End Model Enabled GPR Hyperbolic Keypoint Detection for Automatic Localization of Underground Targets ** are available to facilitate reproducibility and further research. Below is the relevant information:  
 
 ### **Code Repository**  
 - **Repository URL**: [(https://github.com/flucatter/DAYKD)]()  
